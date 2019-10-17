@@ -1,13 +1,13 @@
-#Sponge
+# Sponge
 
-###Oct.13,2019
+### Oct.13,2019
 
 ---
-##Special Tools
+## Special Tools
 
 - 9 inch round pan
 
-##Recipe
+## Recipe
 
 - Eggs 6
 - Flour 1-1/2 cup
@@ -19,10 +19,10 @@
 - Vanilla 3/4 tsp
 - Baking Spray
 
-##Oven
+## Oven
 350, 40min
 
 ---
-##Result
+## Result
 - Texture: good
 - Flavor: too sweet
