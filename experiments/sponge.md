@@ -9,7 +9,7 @@
 
 ## Recipe
 
-- Eggs 6
+- Egg 6
 - Flour 1-1/2 cup
 - Sugar 1-1/2 cup, granulated
 - Salt 3/4 tsp
