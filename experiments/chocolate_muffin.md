@@ -23,7 +23,7 @@
 - Vanilla 2 tsp
 
 ## Oven
-375, 20
+375, 20min
 
 ## Step
 1. Whisk dry ingredients: flour, cocoa powder, baking powder, baking soda, sugar, salt
