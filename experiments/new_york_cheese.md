@@ -15,7 +15,6 @@
 - Sugar 1 cup + 2 tbsp
 - Starch 3 tbsp
 - Vanilla 2 tsp
-- Flour 3 tbsp
 - Egg 4
 - Heavy cream 1/3 cup
 - Sour cream 3/4 cup
@@ -48,5 +47,5 @@ cracked, 30min
 
 ---
 ## Result
-- Texture: a little dry
-- Flavor: bitter
+- Texture: glutinous
+- Flavor: too sweet, too much lemon flavor
