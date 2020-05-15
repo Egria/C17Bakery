@@ -42,4 +42,4 @@
 - Flavor: good
 - Shape: perfect
 
-![image](https://github.com/Egria/C17Bakery/blob/master/img/angel_food.png)
+![image](https://github.com/Egria/C17Bakery/raw/master/img/angel_food.png)
