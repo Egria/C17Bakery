@@ -57,7 +57,7 @@
 - [Beef wrap](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/nenniuwufang.md) *KanraWang*
 - Fajita `pending`
 - Chicken Quesadilla `TBD` `pending`
-- Quesadilla ingredient: Homemade tortilla `TBD` `pending`
+- [Quesadilla ingredient: Homemade tortilla](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/quesadilla_tortilla.md) `TBD`
 
 
 ## 索引 （按类别）
