@@ -57,7 +57,7 @@
 - [Beef wrap](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/nenniuwufang.md) *KanraWang*
 - Fajita `pending`
 - Chicken Quesadilla `TBD` `pending`
-- [Quesadilla ingredient: Homemade tortilla](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/quesadilla_tortilla.md) `TBD`
+- [Quesadilla ingredient: Homemade tortilla](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/quesadilla_tortilla.md) 
 
 
 ## 索引 （按类别）
@@ -101,6 +101,7 @@
 - 嫩牛五方
 - 三种烤肉卷饼
 - 鸡肉奶酪薄饼
+- 奶酪薄饼配料：墨西哥卷饼
 
 ## 待整理
 
