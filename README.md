@@ -48,11 +48,17 @@
 
 - [Soft bread](https://github.com/Egria/C17Bakery/blob/master/experiments/soft_bread.md) `alpha`
 
+### Chinese Cuisine
+
+- [Deep fried pork chop](https://github.com/Egria/C17Bakery/blob/master/chinese/deep_fried_pork_chop.md)
+
 ### Mexican Cuisine
 
 - [Beef wrap](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/nenniuwufang.md) *KanraWang*
-- Mixed Fajita `pending`
+- Fajita `pending`
 - Chicken Quesadilla `TBD` `pending`
+- Quesadilla ingredient: Homemade tortilla `TBD` `pending`
+
 
 ## 索引 （按类别）
 
@@ -85,6 +91,10 @@
 ### 面包
 
 - 小奶包
+
+### 中国菜
+
+- 上海炸猪排
 
 ### 墨西哥菜
 
@@ -146,8 +156,8 @@
 - 酒香草头
 - 菠菜蛋汤
 - 酸辣土豆丝
-- 上海炸猪排
 - 大葱炒鸡蛋
+- 莴笋炒肉
 
 ### 中式主食
 
@@ -185,3 +195,13 @@
 - 白汁三文鱼意大利面
 - 奶酪鸡腿卷
 - 芝士培根焗饭
+
+### 中式面点
+
+- 豌豆黄
+
+### 饮料
+
+- 怡泉苦柠檬
+- 柠檬红茶
+- 奶茶
