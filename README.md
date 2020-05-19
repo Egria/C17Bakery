@@ -55,10 +55,13 @@
 ### Mexican Cuisine
 
 - [Beef wrap](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/nenniuwufang.md) *KanraWang*
-- Fajita `pending`
+- [Fajita](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/fajita_chinese.md)
 - Chicken Quesadilla `TBD` `pending`
 - [Quesadilla ingredient: Homemade tortilla](https://github.com/Egria/C17Bakery/blob/master/mexican_dishes/quesadilla_tortilla.md) 
 
+### European Cuisine
+
+- [Butter roasted mushroom](https://github.com/Egria/C17Bakery/blob/master/western_dishes/roast_mushroom.md)
 
 ## 索引 （按类别）
 
@@ -102,6 +105,10 @@
 - 三种烤肉卷饼
 - 鸡肉奶酪薄饼
 - 奶酪薄饼配料：墨西哥卷饼
+
+### 欧式菜
+
+- 黄油烤蘑菇
 
 ## 待整理
 
@@ -192,7 +199,6 @@
 ### 家常西餐
 
 - 煎三文鱼
-- 黄油烤蘑菇
 - 白汁三文鱼意大利面
 - 奶酪鸡腿卷
 - 芝士培根焗饭
